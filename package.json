@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ttlock",
+  "name": "react-native-ttlock-synter",
   "version": "2.2.6",
   "description": "ttlock react native sdk",
   "main": "lib/commonjs/index",
